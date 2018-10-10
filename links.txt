@@ -1,0 +1,4 @@
+
+Error Vs Exception In Java
+--------------------------
+https://javaconceptoftheday.com/difference-between-error-vs-exception-in-java/
